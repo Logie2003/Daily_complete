@@ -3,17 +3,17 @@
 # Commit One
 Submission Feedback
 Overall Feedback
-3/8
 
-Use of function 0/2
 
-Correct Gui 1/1
+Use of function
 
-Comment Header 0/2, No name, etc
+Correct Gui 
 
-Code comments 1/1
+Comment Header, No name, etc
 
-Correct results 1/2 RLC error (use Farads &amp; Henries)
+Code comments 
+
+Correct results  RLC error (use Farads &amp; Henries)
 
 my example H = 0.47, F = 0.00001, R = 2000, gave these answers:
 
